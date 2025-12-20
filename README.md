@@ -1,3 +1,1 @@
-# ECE-700
-
-This project will focus on Explainable Artificial Intelligence (XAI) to increase the trust and clinical adoption of deep learning models in medical image diagnosis. Specifically, we will develop an interpretable deep-learning model for brain MRI tumor classification. We will train a convolutional neural network (e.g., ResNet18) to distinguish between tumor and non-tumor MRI slices using a publicly available dataset. To address the black-box nature of deep models, we will apply XAI techniques—including Grad-CAM, saliency maps, and LIME—to generate local visual explanations showing which MRI regions most influenced each prediction. The primary outputs will be heatmaps highlighting tumor-relevant structures, enabling analysis of both correct classifications and potential failure cases. The project aims to demonstrate how XAI can enhance confidence in AI-assisted medical imaging tools while maintaining safety, transparency, and clinical effectiveness.
+1
